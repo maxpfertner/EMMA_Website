@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | EMMA</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 21:13:14 -0500</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Hello World</title>
+      <link>/post/2020-04-03-launch/</link>
+      <pubDate>Fri, 03 Apr 2020 21:13:14 -0500</pubDate>
+      <guid>/post/2020-04-03-launch/</guid>
+      <description>
+
+
+&lt;div id=&#34;hi-there.&#34; class=&#34;section level1&#34;&gt;
+&lt;h1&gt;Hi there.&lt;/h1&gt;
+&lt;p&gt;Welcome to the brand new home of the EMMA project on intermodal and multimodal workplace accessibility.&lt;/p&gt;
+&lt;div id=&#34;i-am-not-sure-what-to-write-though.&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;I am not sure what to write though.&lt;/h2&gt;
+&lt;p&gt;Thanks for coming to my TED talk.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
