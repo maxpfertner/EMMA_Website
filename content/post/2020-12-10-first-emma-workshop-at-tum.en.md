@@ -18,7 +18,7 @@ image:
 projects: []
 ---
 
-December 10, 2019 last year was a special day for Maximilian Pfertner’s PhD project EMMA – "Empowering Multimodal and Intermodal Accessibility Analysis": Seven international experts joined us for the first expert workshop within our project funded by Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation.  
+December 10, 2019 was a special day for Maximilian Pfertner’s PhD project EMMA – "Empowering Multimodal and Intermodal Accessibility Analysis": Seven international experts joined us for the first expert workshop within our project funded by Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation.  
 
 We presented our analysis of commuters who have changed their workplace location, to find out if this location alone shapes the daily commute (spoiler: it does!). The paper with all the details is currently under review – stay tuned!  
 
