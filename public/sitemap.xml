@@ -33,6 +33,26 @@
   </url>
   
   <url>
+    <loc>/post/first-emma-workshop-at-tum/</loc>
+    <lastmod>2020-06-24T14:48:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-06-24T14:48:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-06-24T14:48:39+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/workshop/</loc>
+    <lastmod>2020-06-24T14:48:39+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/categories/</loc>
     <lastmod>2020-04-03T21:13:14-05:00</lastmod>
   </url>
@@ -48,17 +68,7 @@
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2020-04-03T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/categories/r/</loc>
-    <lastmod>2020-04-03T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-04-03T21:13:14-05:00</lastmod>
   </url>
   
@@ -110,6 +120,16 @@
   <url>
     <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>

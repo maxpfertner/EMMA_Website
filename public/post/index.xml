@@ -5,12 +5,61 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Apr 2020 21:13:14 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>First EMMA workshop at TUM</title>
+      <link>/post/first-emma-workshop-at-tum/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/first-emma-workshop-at-tum/</guid>
+      <description>&lt;p&gt;December 10, 2019 was a special day for Maximilian Pfertner’s PhD project EMMA – &amp;ldquo;Empowering Multimodal and Intermodal Accessibility Analysis&amp;rdquo;: Seven international experts joined us for the first expert workshop within our project funded by Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation.&lt;/p&gt;
+&lt;p&gt;We presented our analysis of commuters who have changed their workplace location, to find out if this location alone shapes the daily commute (spoiler: it does!). The paper with all the details is currently under review – stay tuned!&lt;/p&gt;
+&lt;p&gt;Together with our guests, we came to the conclusion that it is crucial to look at the workplace locations in order enable sustainable mobility in a region. EMMA’s approach to include intermodality in accessibility analysis is important for a better understanding of the real-life accessibility and mobility behavior of workers while opening up new ways to look at the potential impacts of intermodal services.&lt;/p&gt;
+&lt;p&gt;Many thanks to our experts Daniel Krajzewicz, Alain L&amp;rsquo;Hostis, Rolf Moeckel, Klaus Noekel, Marcus Peter, Cecília Silva, and David Vale!  We are looking forward to a second workshop in December!&lt;/p&gt;
+&lt;p&gt;EMMA’s next step is the development of an open, intermodal accessibility model for the Munich region, powered by OpenTripPlanner, PostGIS, and RStats – see the picture below for a sneak peek. We are thrilled to share more with the community soon!&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-example-of-an-accessibility-map-for-bikeride&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bikeandrideaccessibility.jpg&#34; data-caption=&#34;Example of an accessibility map for Bike&amp;amp;Ride&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bikeandrideaccessibility.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Example of an accessibility map for Bike&amp;amp;Ride
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Hello World</title>

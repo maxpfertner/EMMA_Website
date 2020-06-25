@@ -77,6 +77,55 @@
     </item>
     
     <item>
+      <title>First EMMA workshop at TUM</title>
+      <link>/post/first-emma-workshop-at-tum/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/first-emma-workshop-at-tum/</guid>
+      <description>&lt;p&gt;December 10, 2019 was a special day for Maximilian Pfertner’s PhD project EMMA – &amp;ldquo;Empowering Multimodal and Intermodal Accessibility Analysis&amp;rdquo;: Seven international experts joined us for the first expert workshop within our project funded by Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation.&lt;/p&gt;
+&lt;p&gt;We presented our analysis of commuters who have changed their workplace location, to find out if this location alone shapes the daily commute (spoiler: it does!). The paper with all the details is currently under review – stay tuned!&lt;/p&gt;
+&lt;p&gt;Together with our guests, we came to the conclusion that it is crucial to look at the workplace locations in order enable sustainable mobility in a region. EMMA’s approach to include intermodality in accessibility analysis is important for a better understanding of the real-life accessibility and mobility behavior of workers while opening up new ways to look at the potential impacts of intermodal services.&lt;/p&gt;
+&lt;p&gt;Many thanks to our experts Daniel Krajzewicz, Alain L&amp;rsquo;Hostis, Rolf Moeckel, Klaus Noekel, Marcus Peter, Cecília Silva, and David Vale!  We are looking forward to a second workshop in December!&lt;/p&gt;
+&lt;p&gt;EMMA’s next step is the development of an open, intermodal accessibility model for the Munich region, powered by OpenTripPlanner, PostGIS, and RStats – see the picture below for a sneak peek. We are thrilled to share more with the community soon!&lt;/p&gt;
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-example-of-an-accessibility-map-for-bikeride&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bikeandrideaccessibility.jpg&#34; data-caption=&#34;Example of an accessibility map for Bike&amp;amp;Ride&#34;&gt;
+
+
+  &lt;img src=&#34;/img/bikeandrideaccessibility.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Example of an accessibility map for Bike&amp;amp;Ride
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>/post/2020-04-03-launch/</link>
       <pubDate>Fri, 03 Apr 2020 21:13:14 -0500</pubDate>
@@ -241,6 +290,74 @@ Three
 &lt;a href=&#34;https://spectrum.chat/academic&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/terms/</guid>
+      <description>&lt;h3 id=&#34;operator&#34;&gt;Operator&lt;/h3&gt;
+&lt;p&gt;Technical University of Munich&lt;br&gt;
+Chair of Urban Structure and Transport Planning&lt;/p&gt;
+&lt;h3 id=&#34;address&#34;&gt;Address&lt;/h3&gt;
+&lt;p&gt;Arcisstraße 21&lt;br&gt;
+80333 München&lt;br&gt;
+Germany&lt;/p&gt;
+&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
+&lt;p&gt;Maximilian Pfertner&lt;br&gt;
+&lt;a href=&#34;mailto:maximilian.pfertner@tum.de&#34;&gt;maximilian.pfertner@tum.de&lt;/a&gt;&lt;br&gt;
++49 89 289 22568&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/privacy/</guid>
+      <description>&lt;p&gt;Personal data (usually referred to just as &amp;ldquo;data&amp;rdquo; below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.&lt;/p&gt;
+&lt;p&gt;Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the &amp;ldquo;GDPR&amp;rdquo;), &amp;ldquo;processing&amp;rdquo; refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.&lt;/p&gt;
+&lt;p&gt;The following privacy policy is intended to inform you in particular about the type, scope, purpose, duration, and legal basis for the processing of such data either under our own control or in conjunction with others. We also inform you below about the third-party components we use to optimize our website and improve the user experience which may result in said third parties also processing data they collect and control.&lt;/p&gt;
+&lt;p&gt;Our privacy policy is structured as follows:&lt;/p&gt;
+&lt;p&gt;I. Information about us as controllers of your data
+II. The rights of users and data subjects
+III. Information about the data processing&lt;/p&gt;
+&lt;p&gt;I. Information about us as controllers of your data
+The party responsible for this website (the &amp;ldquo;controller&amp;rdquo;) for purposes of data protection law is:&lt;/p&gt;
+&lt;p&gt;Technical University of Munich - Chair of Urban Structure and Transport Planning
+Arcisstraße 21
+80333 München
+Germany&lt;/p&gt;
+&lt;p&gt;Email: &lt;a href=&#34;mailto:maximilian.pfertner@tum.de&#34;&gt;maximilian.pfertner@tum.de&lt;/a&gt;
+The controller&amp;rsquo;s data protection officer is:&lt;/p&gt;
+&lt;p&gt;Maximilian Pfertner&lt;/p&gt;
+&lt;p&gt;II. The rights of users and data subjects
+With regard to the data processing to be described in more detail below, users and data subjects have the right&lt;/p&gt;
+&lt;p&gt;to confirmation of whether data concerning them is being processed, information about the data being processed, further information about the nature of the data processing, and copies of the data (cf. also Art. 15 GDPR);
+to correct or complete incorrect or incomplete data (cf. also Art. 16 GDPR);
+to the immediate deletion of data concerning them (cf. also Art. 17 DSGVO), or, alternatively, if further processing is necessary as stipulated in Art. 17 Para. 3 GDPR, to restrict said processing per Art. 18 GDPR;
+to receive copies of the data concerning them and/or provided by them and to have the same transmitted to other providers/controllers (cf. also Art. 20 GDPR);
+to file complaints with the supervisory authority if they believe that data concerning them is being processed by the controller in breach of data protection provisions (see also Art. 77 GDPR).
+In addition, the controller is obliged to inform all recipients to whom it discloses data of any such corrections, deletions, or restrictions placed on processing the same per Art. 16, 17 Para. 1, 18 GDPR. However, this obligation does not apply if such notification is impossible or involves a disproportionate effort. Nevertheless, users have a right to information about these recipients.&lt;/p&gt;
+&lt;p&gt;Likewise, under Art. 21 GDPR, users and data subjects have the right to object to the controller&amp;rsquo;s future processing of their data pursuant to Art. 6 Para. 1 lit. f) GDPR. In particular, an objection to data processing for the purpose of direct advertising is permissible.&lt;/p&gt;
+&lt;p&gt;III. Information about the data processing
+Your data processed when using our website will be deleted or blocked as soon as the purpose for its storage ceases to apply, provided the deletion of the same is not in breach of any statutory storage obligations or unless otherwise stipulated below.&lt;/p&gt;
+&lt;p&gt;Server data
+For technical reasons, the following data sent by your internet browser to us or to our server provider will be collected, especially to ensure a secure and stable website: These server log files record the type and version of your browser, operating system, the website from which you came (referrer URL), the webpages on our site visited, the date and time of your visit, as well as the IP address from which you visited our site.&lt;/p&gt;
+&lt;p&gt;The data thus collected will be temporarily stored, but not in association with any other of your data.&lt;/p&gt;
+&lt;p&gt;The basis for this storage is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in the improvement, stability, functionality, and security of our website.&lt;/p&gt;
+&lt;p&gt;The data will be deleted within no more than seven days, unless continued storage is required for evidentiary purposes. In which case, all or part of the data will be excluded from deletion until the investigation of the relevant incident is finally resolved.&lt;/p&gt;
+&lt;p&gt;Third party-services&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;none&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Contact
+If you contact us via email or the contact form, the data you provide will be used for the purpose of processing your request. We must have this data in order to process and answer your inquiry; otherwise we will not be able to answer it in full or at all.&lt;/p&gt;
+&lt;p&gt;The legal basis for this data processing is Art. 6 Para. 1 lit. b) GDPR.&lt;/p&gt;
+&lt;p&gt;Your data will be deleted once we have fully answered your inquiry and there is no further legal obligation to store your data, such as if an order or contract resulted therefrom.&lt;/p&gt;
+&lt;p&gt;Model Data Protection Statement for Anwaltskanzlei Weiß &amp;amp; Partner&lt;/p&gt;
 </description>
     </item>
     
