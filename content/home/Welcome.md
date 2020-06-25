@@ -56,7 +56,9 @@ caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic
  
 +++
 
-## **E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis // **E**in **m**ulti- und intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte
+## **E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis //  
+**E**in **m**ulti- und intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte  
+  
 
 Within the project EMMA, we are building a **multimodal and intermodal accessibility model** for workplace locations in the metropolitain region of Munich, enabling new analysis that will contribute to a better regional understanding and planning of workplace locations and their impacts on the daily commute of its workers.
 
