@@ -2,7 +2,7 @@
 title: First EMMA workshop at TUM
 author: Maximilian Pfertner
 date: '2020-12-10'
-slug: first-emma-workshop-at-tum
+slug: first-workshop
 categories: []
 tags:
   - workshop
