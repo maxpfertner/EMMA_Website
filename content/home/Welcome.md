@@ -9,7 +9,9 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "EMMA"
-subtitle = "**Empowering Multimodal and Intermodal Accessibility Analysis**"
+subtitle = "**E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis // **E**in **m**ulti- und 
+intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte""
+
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -55,9 +57,7 @@ caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic
  
 +++
 
-## Welcome to EMMA's project website!
-
-Within the project, we are building a **multimodal and intermodal accessibility model** for workplace locations in the metropolitain region of Munich, enabling new analysis that will contribute to a better regional understanding and planning of workplace locations and their impacts on the daily commute of its workers.
+Within the project EMMA, we are building a **multimodal and intermodal accessibility model** for workplace locations in the metropolitain region of Munich, enabling new analysis that will contribute to a better regional understanding and planning of workplace locations and their impacts on the daily commute of its workers.
 
 EMMA is a [DFG-funded project](https://gepris.dfg.de/gepris/projekt/401093473?context=projekt&task=showDetail&id=401093473&) at the [Chair of Urban Structure & Transport Planning](https://www.bgu.tum.de/en/sv/homepage/) at [Technical University of Munich](www.tum.de/en). It is part of the [Research Group Accessibility Planning](https://www.linkedin.com/company/tum-accessibility-planning/) at the Chair.  
 
