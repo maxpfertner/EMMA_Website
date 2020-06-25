@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "EMMA"
-subtitle = "**E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis '//' **E**in **m**ulti- und intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte""
+subtitle = "**E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis | **E**in **m**ulti- und intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte""
 
 
 [design]
