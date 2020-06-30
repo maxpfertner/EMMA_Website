@@ -199,50 +199,19 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
+
+
+
+
   
-
-
-
-
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
 
-  
-  document.addEventListener('click', onClickCallback, false);
+  gtag('config', 'UA-171104575-1');
 </script>
-
-
-  
 
 
   
@@ -250,8 +219,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/">
 
@@ -298,13 +267,13 @@
   "@type": "Project",
   "@id": "/",
   "name": "EMMA",
-  "logo": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png",
+  "logo": "/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png",
   
   
   
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "Arcisstr. 21",
+    "streetAddress": "Technical University of Munich\u003cbr\u003eArcisstr. 21",
     "addressLocality": "München",
     "addressRegion": "",
     "postalCode": "80333",
@@ -356,6 +325,8 @@
 
 
 
+
+  
 
 
   <title>EMMA</title>
@@ -701,6 +672,70 @@
   
 
   
+    
+    
+    
+    
+    
+      
+      
+    
+    
+      
+      
+    
+  
+
+  
+    
+    
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  <section id="logos" class="home-section wg-blank   bg-image parallax " style="background-image:  url(&#39;/img/headers/banner.png&#39;);background-size: cover;background-position: center;padding: 150px 0 100px 0;" >
+    <div class="container">
+      
+
+
+<div class="row">
+  
+    <div class="col-lg-12">
+      
+      
+      
+    </div>
+  
+</div>
+
+    </div>
+  </section>
+
+  
+  
+  
+
+  
+
+  
+
+  
 
   
     
@@ -940,7 +975,7 @@ The focus in the last project phase starting in autumn this year will be the app
 
     
     <div class="article-style">
-      Hello!   TUM Stammgelänge in Maxvorstadt     TUM Campus Garching-Hochbrück     Comparison of both locations   
+      The release of the official nation-wide GTFS dataset for Germany has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner.
     </div>
     
 
@@ -974,7 +1009,7 @@ The focus in the last project phase starting in autumn this year will be the app
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    3 min read
   </span>
   
 
@@ -1068,95 +1103,6 @@ The focus in the last project phase starting in autumn this year will be the app
   
 
   
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/2015-07-23-r-rmarkdown/" >Hello R Markdown</a>
-    </h3>
-
-    
-    <div class="article-style">
-      R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Jul 23, 2015
-  </span>
-  
-
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-  <span class="middot-divider"></span>
-  <span class="article-categories">
-    <i class="fas fa-folder mr-1"></i><a href="/categories/r/">R</a></span>
   
 
 </div>
@@ -1353,7 +1299,7 @@ The focus in the last project phase starting in autumn this year will be the app
     
     
       
-      <a href="/authors/bb/"><img class="avatar avatar-circle" src="/authors/bb/avatar_hu2cd24891bad7dd9e013ca185a22f81d3_6815_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      <a href="/authors/bb/"><img class="avatar avatar-circle" src="/authors/bb/avatar_hu160afc5cca024d7d3f4f36a782495478_426146_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1488,7 +1434,7 @@ The focus in the last project phase starting in autumn this year will be the app
         
         <li>
           <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-          <span id="person-address">Arcisstr. 21<br>80333 München</span>
+          <span id="person-address">Technical University of Munich<br>Arcisstr. 21<br>80333 München<br>Germany</span>
         </li>
       
 
@@ -1624,6 +1570,22 @@ The focus in the last project phase starting in autumn this year will be the app
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -1652,6 +1614,9 @@ The focus in the last project phase starting in autumn this year will be the app
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>

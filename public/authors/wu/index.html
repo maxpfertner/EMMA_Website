@@ -199,50 +199,19 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
+
+
+
+
   
-
-
-
-
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
 
-  
-  document.addEventListener('click', onClickCallback, false);
+  gtag('config', 'UA-171104575-1');
 </script>
-
-
-  
 
 
   
@@ -250,8 +219,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/authors/wu/">
 
@@ -317,6 +286,8 @@
 
 
 
+
+  
 
 
   <title>Prof. Dr.-Ing. Gebhard Wulfhorst | EMMA</title>
@@ -630,6 +601,23 @@
           </a>
         </li>
         
+        
+        
+        
+          
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="https://www.linkedin.com/in/gebhard-wulfhorst-15268b13b/" target="_blank" rel="noopener">
+            <i class="fab fa-linkedin big-icon"></i>
+          </a>
+        </li>
+        
       </ul>
 
     </div>
@@ -639,7 +627,7 @@
     
     
 
-    <p>Gebhard Wulfhorst has led the Chair of Urban Structure and Transport Planning since July 2006. As a spatial and transport planner, he specializes in the interactions between spatial structures and mobility behavior&hellip; 
+    <p>ebhard Wulfhorst has led the Chair of Urban Structure and Transport Planning since July 2006. As a spatial and transport planner, he specializes in the interactions between spatial structures and mobility behavior. The focus areas of his teaching, research and consulting are the development of integrated transport and settlement concepts, model-based impact assessment and the design of planning and implementation processes for urban regions. 
 <a href="https://www.bgu.tum.de/en/sv/team/prof-dr-ing-gebhard-wulfhorst/" target="_blank" rel="noopener"><em>Read more on our website</em></a></p>
 
 
@@ -772,6 +760,22 @@
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -800,6 +804,9 @@
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>

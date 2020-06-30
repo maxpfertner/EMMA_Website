@@ -199,57 +199,26 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
+
+
+
+
   
-
-
-
-
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
 
-  
-  document.addEventListener('click', onClickCallback, false);
+  gtag('config', 'UA-171104575-1');
 </script>
 
 
   
 
-
-  
-
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/post/2019-12-10-first-emma-workshop/">
 
@@ -314,7 +283,7 @@
     "name": "EMMA",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "December 10, 2019 was a special day for Maximilian Pfertner’s PhD project EMMA – \u0026ldquo;Empowering Multimodal and Intermodal Accessibility Analysis\u0026rdquo;: Seven international experts joined us for the first expert workshop within our project funded by Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation."
@@ -363,6 +332,8 @@
 
 
 
+
+  
 
 
   <title>First EMMA workshop at TUM | EMMA</title>
@@ -990,6 +961,22 @@
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -1018,6 +1005,9 @@
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>

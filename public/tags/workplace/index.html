@@ -199,50 +199,19 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
+
+
+
+
   
-
-
-
-
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
 
-  
-  document.addEventListener('click', onClickCallback, false);
+  gtag('config', 'UA-171104575-1');
 </script>
-
-
-  
 
 
   
@@ -250,8 +219,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/tags/workplace/">
 
@@ -317,6 +286,8 @@
 
 
 
+
+  
 
 
   <title>workplace | EMMA</title>
@@ -605,7 +576,7 @@
       <h2><a href="/post/changes-in-accessibility-during-a-workday/" >Temporal accessibility of workplaces by time of day</a></h2>
       <div class="article-style">
         
-          Hello!   TUM Stammgelänge in Maxvorstadt     TUM Campus Garching-Hochbrück     Comparison of both locations   
+          The release of the official nation-wide GTFS dataset for Germany has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner.
         
       </div>
     </div>
@@ -726,6 +697,22 @@
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -754,6 +741,9 @@
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>

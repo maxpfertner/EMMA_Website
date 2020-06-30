@@ -199,50 +199,19 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
+
+
+
+
   
-
-
-
-
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
 
-  
-  document.addEventListener('click', onClickCallback, false);
+  gtag('config', 'UA-171104575-1');
 </script>
-
-
-  
 
 
   
@@ -250,8 +219,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/authors/bb/">
 
@@ -317,6 +286,8 @@
 
 
 
+
+  
 
 
   <title>Dr. Benjamin Büttner | EMMA</title>
@@ -597,7 +568,7 @@
 
       
       
-      <img class="avatar avatar-circle" src="/authors/bb/avatar_hu2cd24891bad7dd9e013ca185a22f81d3_6815_270x270_fill_q90_lanczos_center.jpg" alt="Dr. Benjamin Büttner">
+      <img class="avatar avatar-circle" src="/authors/bb/avatar_hu160afc5cca024d7d3f4f36a782495478_426146_270x270_fill_q90_lanczos_center.jpg" alt="Dr. Benjamin Büttner">
       
 
       <div class="portrait-title">
@@ -656,7 +627,7 @@
     
     
 
-    <p>Benjamin Büttner has worked at the Chair of Urban Structure and Transport Planning since July 2010. He received his PhD in engineering after having completed a German Diploma in geography. He currently works in the fields of accessibility planning and decision and policy making&hellip; 
+    <p>Benjamin Büttner has worked at the Chair of Urban Structure and Transport Planning since July 2010. He received his PhD in engineering after having completed a German Diploma in geography. He currently works in the fields of accessibility planning and decision and policy making. Urban and transport planning, as well as governance, are the foci of his professional skills. He led multiple research projects ranging from regional to European level. He is an active reviewer for multiple high profile research journals, a regular participant in governance discussions (INZELL initiative, EMM) within the region of Munich, and he contributed to the COST Action TU 1002 on Accessibility Instruments for Planning Practice. Currently Benjamin Büttner is heading a research group on accessibility planning and has been designated co-chair of the NECTAR Accessibility cluster since 2018. Additionally, since 2019 he is coordinator of the EIT Urban Mobility “Doctoral Training Network”. 
 <a href="https://www.bgu.tum.de/en/sv/team/dr-ing-benjamin-buettner/" target="_blank" rel="noopener"><em>Read more on our website</em></a></p>
 
 
@@ -789,6 +760,22 @@
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -817,6 +804,9 @@
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>

@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Hello!   TUM Stammgelänge in Maxvorstadt     TUM Campus Garching-Hochbrück     Comparison of both locations   ">
+  <meta name="description" content="The release of the official nation-wide GTFS dataset for Germany has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner.">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/changes-in-accessibility-during-a-workday/">
@@ -199,57 +199,26 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
+
+
+
+
   
-
-
-
-
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
 
-  
-  document.addEventListener('click', onClickCallback, false);
+  gtag('config', 'UA-171104575-1');
 </script>
 
 
   
 
-
-  
-
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/post/changes-in-accessibility-during-a-workday/">
 
@@ -267,7 +236,7 @@
   <meta property="og:site_name" content="EMMA">
   <meta property="og:url" content="/post/changes-in-accessibility-during-a-workday/">
   <meta property="og:title" content="Temporal accessibility of workplaces by time of day | EMMA">
-  <meta property="og:description" content="Hello!   TUM Stammgelänge in Maxvorstadt     TUM Campus Garching-Hochbrück     Comparison of both locations   "><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
+  <meta property="og:description" content="The release of the official nation-wide GTFS dataset for Germany has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner."><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
     
@@ -314,10 +283,10 @@
     "name": "EMMA",
     "logo": {
       "@type": "ImageObject",
-      "url": "/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Hello!   TUM Stammgelänge in Maxvorstadt     TUM Campus Garching-Hochbrück     Comparison of both locations   "
+  "description": "The release of the official nation-wide GTFS dataset for Germany has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner."
 }
 </script>
 
@@ -363,6 +332,8 @@
 
 
 
+
+  
 
 
   <title>Temporal accessibility of workplaces by time of day | EMMA</title>
@@ -660,7 +631,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    3 min read
   </span>
   
 
@@ -696,7 +667,8 @@
   <div class="article-container">
 
     <div class="article-style">
-      <h2 id="hello">Hello!</h2>
+      <p>The release of the 
+<a href="https://www.opendata-oepnv.de/ht/de/willkommen" target="_blank" rel="noopener">official nation-wide GTFS dataset for Germany</a> has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner. The timetable-based accuracy of the data allows a very detailed look at the changes in accessibility over time due to variations in the public transport supply. We would like to illustrate this using TUM&rsquo;s main campus in the center of Munich and the Garching Campus, which is north of the City, connected with a subway line.</p>
 
 
 
@@ -731,6 +703,8 @@
 
 </figure>
 
+<p>The blue isochrones show the area from where you could reach the TUM campus within 30 minute with public transport at the given time of day (on a Wednesday). You can see some headway-related flickering during the day, but between the early morning until the late evening, the area is relatively stable. A dense network of multiple public transport lines, from buses, to trams, subways, and regional trains (&ldquo;S-Bahn&rdquo;) ensures a good accessibility of this location during most of the day. 
+How does a similar map look for the example of Garching?</p>
 
 
 
@@ -765,6 +739,9 @@
 
 </figure>
 
+<p>As you might have expected, the isochrones are generally smaller, and much more narrow shaped along the North-South corridor. This is where the subway runs, the dominating public transport supply in the area. The effect of some bus lines is visible with the &ldquo;islands&rdquo; that appear on the map from time to time. Interestingly, there are some periods at night where there is no public transport on the campus at all.</p>
+<h3 id="how-can-we-quantify-and-visualize-these-results">How can we quantify and visualize these results?</h3>
+<p>The following graph shows the number of people who can reach the locations by time of day - again within 30 minutes of public transport (and a max. walk distance of 800m).</p>
 
 
 
@@ -799,6 +776,15 @@
 
 </figure>
 
+<p>The striking difference in absolute numbers is not unexpected, given the locations. Some observations beyond this:</p>
+<ul>
+<li>The night shutdown from 2:00 - 5:00 is affecting Garching more than the main campus, where some supply is available 24/7.</li>
+<li>You can identify (in the main campus mainly) the increased supply during the peak hours (roughly 7:00- 9:00  and 16:00 - 19:00)</li>
+</ul>
+<h3 id="what-does-this-imply-for-workplace-locations">What does this imply for workplace locations?</h3>
+<p>First, one has to understand that on the Garching Campus, there are mainly university buildings and other research institutions, but no housing at all. Thus, effects like the complete shutdown of public transport at night does not have a negative impact on this location at the moment. However, it does show that in the case of structural changes to the locations, adaptions will be necessary.<br>
+Within EMMA, we can repeat a similar analysis in more depth e.g. for workplace locations, where a 24/7 accessibility is important (such as hospitals, factories with night shifts, &hellip;) and generate recommendations for the further development.<br>
+<em>Stay tuned!</em></p>
 
     </div>
 
@@ -1066,6 +1052,22 @@
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -1094,6 +1096,9 @@
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>

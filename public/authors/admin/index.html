@@ -199,50 +199,19 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
+
+
+
+
   
-
-
-
-
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
+  function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
 
-  
-  document.addEventListener('click', onClickCallback, false);
+  gtag('config', 'UA-171104575-1');
 </script>
-
-
-  
 
 
   
@@ -250,8 +219,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/authors/admin/">
 
@@ -317,6 +286,8 @@
 
 
 
+
+  
 
 
   <title>Maximilian Pfertner | EMMA</title>
@@ -692,7 +663,7 @@
     
     
 
-    <p>Maximilian Pfertner joined the Chair in July 2017, after graduating from the international Master’s Program in Transportation Systems at TUM. He has been working in theory and practice on multimodal mobility concepts as well as on cycling projects, and he believes strongly in the power of integrating various modes with public transport. Since January 2019, he is working full-time on his PhD on intermodal and multimodal workplace accessibility within the DFG-funded EMMA project. He is using open source tools for all his analysis and is building his model with the help of OpenTripPlanner, PostGIS and R&hellip; 
+    <p>Maximilian Pfertner joined the Chair in July 2017, after graduating from the international Master’s Program in Transportation Systems at TUM. He has been working in theory and practice on multimodal mobility concepts as well as on cycling projects, and he believes strongly in the power of integrating various modes with public transport. Since January 2019, he is working full-time on his PhD on intermodal and multimodal workplace accessibility within the DFG-funded EMMA project. He is using open source tools for all his analysis and is building his model with the help of OpenTripPlanner, PostGIS and R. 
 <a href="https://www.bgu.tum.de/en/sv/team/msc-maximilian-pfertner/" target="_blank" rel="noopener"><em>Read more on our website</em></a></p>
 
 
@@ -700,29 +671,6 @@
 
       
 
-      
-      <div class="col-md-7">
-        <h3>Education</h3>
-        <ul class="ul-edu fa-ul">
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">M.Sc. in Transportation Systems, 2017</p>
-              <p class="institution">Technical University of Munich</p>
-            </div>
-          </li>
-          
-          <li>
-            <i class="fa-li fas fa-graduation-cap"></i>
-            <div class="description">
-              <p class="course">B.Sc. in Environmental Engineering, 2015</p>
-              <p class="institution">Technical University of Munich</p>
-            </div>
-          </li>
-          
-        </ul>
-      </div>
       
 
     </div>
@@ -848,6 +796,22 @@
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -876,6 +840,9 @@
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>
