@@ -57,6 +57,6 @@ caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic
 +++
 
 ## **E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis //  
-### **E**in **m**ulti- und intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte  
+## **E**in **m**ulti- und intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte  
   
  
