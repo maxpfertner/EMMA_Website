@@ -86,9 +86,10 @@ The project runs from January 2019 to July 2021, so currently we are right in th
 will be published soon, a second one about the methodological concept of the accessibility model will follow over the summer.  
 The focus in the last project phase starting in autumn this year will be the application of the model and its policy implications.
 
-
-
-
+---------------------------------
+### Get in touch with us!
+Are you are researcher working on similar topics? A planner who is open to test new methods? A company who has to make a location choice?  
+We are always open to cooperate and exchange with you. Don't hesitate to email us!
 
 
 
