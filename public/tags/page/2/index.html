@@ -199,50 +199,7 @@
   
   <link rel="stylesheet" href="/css/academic.css">
 
-  
 
-
-
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-
-  function gtag() {
-      dataLayer.push(arguments);
-  }
-
-  function trackOutboundLink(url, target) {
-    gtag('event', 'click', {
-         'event_category': 'outbound',
-         'event_label': url,
-         'transport_type': 'beacon',
-         'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
-         }
-    });
-    console.debug("Outbound link clicked: " + url);
-  }
-
-  function onClickCallback(event) {
-    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
-      return;
-    }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
-  }
-
-  gtag('js', new Date());
-  gtag('config', 'UA-171104575-1', { 'anonymize_ip': true });
-
-  
-  document.addEventListener('click', onClickCallback, false);
-</script>
-
-
-  
 
 
   
@@ -250,8 +207,8 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_huc0ed60afaa25366e5d4487555f44c84a_262893_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="/tags/">
 
@@ -272,7 +229,7 @@
   <meta property="og:description" content="Researcher &amp; PhD Candidate"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-06-26T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2020-08-11T00:00:00&#43;00:00">
   
 
   
@@ -318,8 +275,47 @@
 
 
 
+  
+
 
   <title>Tags | EMMA</title>
+  
+
+
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171104575-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-171104575-1');
+</script>
+
+
+
+  
+ 
+<script type="text/javascript">
+  var _paq = _paq || [];
+   
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.open-accessibility.org/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '3']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<noscript>
+  
+<img src="https://analytics.open-accessibility.org/piwik.php?idsite=3&amp;rec=1" style="border:0" alt="" />
+
+</noscript>
+
 
 </head>
 
@@ -602,7 +598,7 @@
     
     
     <div>
-      <h2><a href="/tags/plot/" >plot</a></h2>
+      <h2><a href="/tags/r/" >r</a></h2>
       <div class="article-style">
         
       </div>
@@ -612,7 +608,7 @@
     
     
     <div>
-      <h2><a href="/tags/r-markdown/" >R Markdown</a></h2>
+      <h2><a href="/tags/temporal/" >temporal</a></h2>
       <div class="article-style">
         
       </div>
@@ -622,7 +618,27 @@
     
     
     <div>
-      <h2><a href="/tags/regression/" >regression</a></h2>
+      <h2><a href="/tags/workshop/" >workshop</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tags/deep-learning/" >Deep Learning</a></h2>
+      <div class="article-style">
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/tags/demo/" >Demo</a></h2>
       <div class="article-style">
         
       </div>
@@ -753,6 +769,22 @@
   <div class="container">
     <footer class="site-footer">
   
+  
+  <style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+<img src="/img/dfg_tum_logos.png" alt="logos" style="width:50%; margin-bottom: 30px; margin-top: 30px">
+
+
+  
+  
+  
+  
   <p class="powered-by">
     
       <a href="/privacy/">Privacy Policy</a>
@@ -781,6 +813,9 @@
     </span>
     
   </p>
+  
+
+
 </footer>
 
   </div>
