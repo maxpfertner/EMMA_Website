@@ -82,9 +82,9 @@ Our first results from a data analysis of 996 workers who have changed their wor
 
 ### Current status & next steps
 
-The project runs from January 2019 to July 2021, so currently we are right in the middle of the project. A first paper about our data analysis 
-will be published soon, a second one about the methodological concept of the accessibility model will follow over the summer.  
-The focus in the last project phase starting in autumn this year will be the application of the model and its policy implications.
+The project runs from January 2019 to December 2021, so currently we are right in the middle of the project. A first paper about our data analysis 
+will be published soon, a second one about the methodological concept of the accessibility model will follow.  
+The focus in the last project phase starting in January 2021 will be the application of the model and its policy implications.
 
 ---------------------------------
 ### Get in touch with us!
