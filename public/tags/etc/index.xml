@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>etc | EMMA</title>
+    <link>/tags/etc/</link>
+      <atom:link href="/tags/etc/index.xml" rel="self" type="application/rss+xml" />
+    <description>etc</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>etc</title>
+      <link>/tags/etc/</link>
+    </image>
+    
+    <item>
+      <title>EMMA&#39;s conference presentations this summer</title>
+      <link>/post/online-presentations-summer-2020/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/online-presentations-summer-2020/</guid>
+      <description>&lt;p&gt;During the summer, we had the chance to present EMMA at two wonderful online conferences. While most in-person events have been cancelled during the COVID-19 pandemic, these virtual events are a great way to ensure fruitful discussions and collect feedback, which is crucial for all kinds of research.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;btr2&#34;&gt;BTR2&lt;/h3&gt;
+&lt;p&gt;At the 
+
+&lt;a href=&#34;https://bridgingtransport.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridging Transportation Researchers (BTR) Conference #2&lt;/a&gt; on 11-12 August, Maximilian
+presented our results from the commuting data analysis done within EMMA. The talk is available on YouTube (see below) and you can download the slides &lt;a href=&#34;/files/2020-08-11_EMMA@BTR2.pdf&#34;&gt;here&lt;/a&gt;. Make sure to have a look at the other exciting talks at the conference as well!
+A special thanks to 
+&lt;a href=&#34;http://www.caee.utexas.edu/prof/kockelman/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kara Kockelman&lt;/a&gt; (University of Texas at Austin, USA) and 
+&lt;a href=&#34;https://sites.google.com/view/elnazirannezhad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elnaz Irannezhad&lt;/a&gt; (Australian Road Research Board (ARRB), Australia) for organizing this event.&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/uH6kQ88gPVE?start=17226&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;em&gt;(Max&amp;rsquo; Zoom broke down at the start of his presentation, so you&amp;rsquo;re seeing the backup version&amp;hellip;)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;etc&#34;&gt;ETC&lt;/h3&gt;
+&lt;p&gt;On September 10, we were invited to present in the Accessibility session of the &lt;em&gt;Planning for Sustainable Land Use and Transport&lt;/em&gt; track of the 
+&lt;a href=&#34;https://aetransport.org/this-year-at-etc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Transport Conference&lt;/a&gt;, moderated by Michael Bach. Maximilian presented the technical architecture behind our accessibility model and showed some results and applications for practice. The slides are available for download &lt;a href=&#34;/files/2020-09-10_EMMA@ETC.pdf&#34;&gt;here&lt;/a&gt; while the recording is only available for conference attendants.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
