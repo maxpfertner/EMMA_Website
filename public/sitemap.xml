@@ -1,199 +1,119 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/courses/example/example1/</loc>
+    <loc>https://www.emma-accessibility.org/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/example/example2/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/example/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/talk/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/accessibility/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/post/iaa/</loc>
+    <lastmod>2021-09-05T11:41:32+02:00</lastmod>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/iaa/</loc>
+    <lastmod>2021-09-05T11:41:32+02:00</lastmod>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/post/</loc>
+    <lastmod>2021-09-05T11:41:32+02:00</lastmod>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/</loc>
+    <lastmod>2021-09-05T11:41:32+02:00</lastmod>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/accessibility/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/btr2/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/btr2/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/conference/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/conference/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/dataanalysis/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/dataanalysis/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/online-presentations-summer-2020/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/post/online-presentations-summer-2020/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/etc/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/etc/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/presentation/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/presentation/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/workplace/</loc>
     <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/workplace/</loc>
-    <lastmod>2020-10-21T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/isochrone/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/isochrone/</loc>
     <lastmod>2020-06-26T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/methodology/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/methodology/</loc>
     <lastmod>2020-06-26T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/opentripplanner/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/opentripplanner/</loc>
     <lastmod>2020-06-26T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/r/</loc>
     <lastmod>2020-06-26T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/temporal/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/temporal/</loc>
     <lastmod>2020-06-26T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/changes-in-accessibility-during-a-workday/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/post/changes-in-accessibility-during-a-workday/</loc>
     <lastmod>2020-06-26T11:41:32+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2019-12-10-first-emma-workshop/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/post/2019-12-10-first-emma-workshop/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/workshop/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/workshop/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/example/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/deep-learning/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/demo/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/authors/admin/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/authors/bb/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/authors/wu/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/authors/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/categories/</loc>
+  </url><url>
+    <loc>https://www.emma-accessibility.org/publication_types/</loc>
   </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/bb/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/wu/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
 </urlset>

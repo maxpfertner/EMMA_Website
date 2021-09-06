@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EMMA</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-accessibility.org/</link>
+      <atom:link href="https://www.emma-accessibility.org/index.xml" rel="self" type="application/rss+xml" />
     <description>EMMA</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>EMMA</title>
-      <link>/</link>
+      <link>https://www.emma-accessibility.org/</link>
     </image>
     
     <item>
       <title>Example Page 1</title>
-      <link>/courses/example/example1/</link>
+      <link>https://www.emma-accessibility.org/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example1/</guid>
+      <guid>https://www.emma-accessibility.org/courses/example/example1/</guid>
       <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -35,9 +35,9 @@
     
     <item>
       <title>Example Page 2</title>
-      <link>/courses/example/example2/</link>
+      <link>https://www.emma-accessibility.org/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/example/example2/</guid>
+      <guid>https://www.emma-accessibility.org/courses/example/example2/</guid>
       <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
@@ -56,9 +56,9 @@
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/example/</link>
+      <link>https://www.emma-accessibility.org/talk/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/example/</guid>
+      <guid>https://www.emma-accessibility.org/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -77,17 +77,66 @@
     </item>
     
     <item>
+      <title>Herzlich Willkommen auf der IAA!</title>
+      <link>https://www.emma-accessibility.org/post/iaa/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-accessibility.org/post/iaa/</guid>
+      <description>&lt;h3 id=&#34;herzlich-willkommen-beim-projekt-emma---ein-multi--und-intermodales-erreichbarkeitsmodell-für-arbeitsstandorte&#34;&gt;Herzlich Willkommen beim Projekt EMMA - &lt;em&gt;Ein multi- und intermodales Erreichbarkeitsmodell für Arbeitsstandorte&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Arbeitsstandorte sind prägend für unseren Alltag. Wo unser Arbeitsplatz liegt, hat Einfluss auf unser Mobilitätsverhalten - und zwar nicht nur für den Weg zur Arbeit, sondern auch für andere Erledigungen und Freizeitaktivitäten. Wegeketten (wie Arbeiten – Einkaufen – Kind abholen – nach Hause) werden davon dominiert, wie man den Weg zur Arbeit zurücklegt. Fährt man morgens mit dem Auto in die Arbeit, ist es sehr wahrscheinlich, dass man alle weiteren Wege des Tages ebenfalls im Pkw zurücklegt. Arbeitet man nun an einem Standort, der schnell und komfortabel nur mit dem Auto erreichbar ist, wird zwangsweise das gesamte Mobilitätsverhalten davon dominiert. Ziel moderner Planung in Metropolregionen sollte es daher sein, dass rein autoabhängige Arbeitsstandorte vermieden werden, um diesen „Lock-in“ Effekt zu verhindern und sich die Beschäftigten am Standort für verschiedene Verkehrsmittel – je nach individueller Eignung und Präferenz – entscheiden können.&lt;/p&gt;
+&lt;p&gt;In EMMA, unserem DFG-geförderten Projekt (2019 – 2021), wird die Perspektive der Unternehmensstandorte eingenommen und die multimodale Erreichbarkeit von Arbeitskräften aus Arbeitsstandortsicht modelliert – das heißt, wir berechnen vereinfacht gesagt wie viele Menschen innerhalb gewisser Zeitbeschränkungen (z.B. 30 Minuten) mit verschiedenen Verkehrsmitteln (ÖPNV, Pkw, Fahrrad, sowie Kombinationen davon wie Bike+Ride) diesen Standort erreichen können. Dabei geht es uns bewusst nicht um die tatsächlich Beschäftigten, sondern wir verwenden die erreichbare Bevölkerung als einen Indikator dafür, wie gut der Standort erreichbar ist. Dahinter steht das Prinzip der „Erreichbarkeitsplanung“, welches zunehmend die rein mobilitätsbasierte Planung ablöst. Es geht dabei darum, dass das Wechselspiel aus Stadtstruktur und Verkehrssystem so optimiert wird, damit eine Vielzahl von möglichen Zielen (z.B. Supermärkte, Ärztinnen, Schulen, Restaurants, …) für möglichst viele Bürgerinnen und Bürger erreichbar ist, anstatt nur Reisezeiten zwischen (potenziell bedeutungslosen) Zielen zu verbessern.&lt;/p&gt;
+&lt;p&gt;Ein beispielhaftes Zwischenergebnis dieser Analysen ist der Vergleich der erreichbaren Bevölkerung innerhalb von 30 Minuten mit verschiedenen Verkehrsmitteln:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-verkehrsmittel-im-vergleich&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/vergleich.gif&#34; data-caption=&#34;Verkehrsmittel im Vergleich&#34;&gt;
+
+
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/vergleich.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Verkehrsmittel im Vergleich
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Wie Sie sehen, schwankt die Anzahl der erreichbaren Bevölkerung sehr stark. Im ÖPNV („PT)“ sieht man deutlich die Achsen des schienengebundenen Verkehrs und die Zentren der Region weisen die höchsten Werte auf. Flächendeckend erreicht das Auto die höchsten Werte – die weißen Flecken auf der Karte sind zwar mit dem Pkw nicht erreichbar, fallen aber nicht ins Gewicht, da diese buchstäblich im Wald oder auf dem freien Feld liegen. Deutlich wird auch, dass die Kombination aus ÖPNV und Fahrrad dort ihre Vorteile ausspielen kann, wo Arbeitsstandorte relativ nah am schienengebundenen ÖPNV liegen, jedoch zu weit entfernt, um zu Fuß zu gehen. Hier könnte eine Förderung von Bike and Ride am meisten Potenzial entfalten.
+Eine weitere wichtige Erkenntnis aus dieser (im Arbeitsstand befindlichen) Analyse ist auch das Potenzial der Zentren außerhalb Münchens, wie z.B. Augsburg, Ingolstadt, Landshut, Rosenheim, etc. Im Modell schneiden diese oft sehr gut ab und auch die Fahrraderreichbarkeit ist im Vergleich zum Pkw recht hoch, da sich die Bevölkerung auf eine recht kompakte Stadtstruktur konzentriert. In Verbindung mit Mobilitätsbefragungen deutet dies ein Potenzial für eine weitere Förderung des Radverkehrs an, insbesondere für Menschen, die in diesen Zentren wohnen und arbeiten.
+Eine große offene Frage bleibt aber natürlich, wann ein Arbeitsstandort „gut liegt“. Zahlen und Modellergebnisse helfen uns, diese Frage zu beantworten. Mindestens genau so wichtig ist aber auch Ihre Meinung – wir würden uns freuen, wenn Sie uns ein paar Worte dazu hinterlassen, wodurch sich Ihrer ganz persönlichen Meinung nach ein guter Arbeitsstandort auszeichnet:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>EMMA&#39;s conference presentations this summer</title>
-      <link>/post/online-presentations-summer-2020/</link>
+      <link>https://www.emma-accessibility.org/post/online-presentations-summer-2020/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/online-presentations-summer-2020/</guid>
+      <guid>https://www.emma-accessibility.org/post/online-presentations-summer-2020/</guid>
       <description>&lt;p&gt;During the summer, we had the chance to present EMMA at two wonderful online conferences. While most in-person events have been cancelled during the COVID-19 pandemic, these virtual events are a great way to ensure fruitful discussions and collect feedback, which is crucial for all kinds of research.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;btr2&#34;&gt;BTR2&lt;/h3&gt;
 &lt;p&gt;At the 
 
 &lt;a href=&#34;https://bridgingtransport.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridging Transportation Researchers (BTR) Conference #2&lt;/a&gt; on 11-12 August, Maximilian
-presented our results from the commuting data analysis done within EMMA. The talk is available on YouTube (see below) and you can download the slides &lt;a href=&#34;/files/2020-08-11_EMMA@BTR2.pdf&#34;&gt;here&lt;/a&gt;. Make sure to have a look at the other exciting talks at the conference as well!
+presented our results from the commuting data analysis done within EMMA. The talk is available on YouTube (see below) and you can download the slides &lt;a href=&#34;https://www.emma-accessibility.org/files/2020-08-11_EMMA@BTR2.pdf&#34;&gt;here&lt;/a&gt;. Make sure to have a look at the other exciting talks at the conference as well!
 A special thanks to 
 &lt;a href=&#34;http://www.caee.utexas.edu/prof/kockelman/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kara Kockelman&lt;/a&gt; (University of Texas at Austin, USA) and 
 &lt;a href=&#34;https://sites.google.com/view/elnazirannezhad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elnaz Irannezhad&lt;/a&gt; (Australian Road Research Board (ARRB), Australia) for organizing this event.&lt;/p&gt;
@@ -96,19 +145,19 @@ A special thanks to
   &lt;iframe src=&#34;https://www.youtube.com/embed/uH6kQ88gPVE?start=17226&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;em&gt;(Max&amp;rsquo; Zoom broke down at the start of his presentation, so you&amp;rsquo;re seeing the backup version&amp;hellip;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Max&#39; Zoom broke down at the start of his presentation, so you&amp;rsquo;re seeing the backup version&amp;hellip;)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;etc&#34;&gt;ETC&lt;/h3&gt;
 &lt;p&gt;On September 10, we were invited to present in the Accessibility session of the &lt;em&gt;Planning for Sustainable Land Use and Transport&lt;/em&gt; track of the 
-&lt;a href=&#34;https://aetransport.org/this-year-at-etc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Transport Conference&lt;/a&gt;, moderated by Michael Bach. Maximilian presented the technical architecture behind our accessibility model and showed some results and applications for practice. The slides are available for download &lt;a href=&#34;/files/2020-09-10_EMMA@ETC.pdf&#34;&gt;here&lt;/a&gt; while the recording is only available for conference attendants.&lt;/p&gt;
+&lt;a href=&#34;https://aetransport.org/this-year-at-etc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Transport Conference&lt;/a&gt;, moderated by Michael Bach. Maximilian presented the technical architecture behind our accessibility model and showed some results and applications for practice. The slides are available for download &lt;a href=&#34;https://www.emma-accessibility.org/files/2020-09-10_EMMA@ETC.pdf&#34;&gt;here&lt;/a&gt; while the recording is only available for conference attendants.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Temporal accessibility of workplaces by time of day</title>
-      <link>/post/changes-in-accessibility-during-a-workday/</link>
+      <link>https://www.emma-accessibility.org/post/changes-in-accessibility-during-a-workday/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/changes-in-accessibility-during-a-workday/</guid>
+      <guid>https://www.emma-accessibility.org/post/changes-in-accessibility-during-a-workday/</guid>
       <description>&lt;p&gt;The release of the 
 &lt;a href=&#34;https://www.opendata-oepnv.de/ht/de/willkommen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official nation-wide GTFS dataset for Germany&lt;/a&gt; has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner. The timetable-based accuracy of the data allows a very detailed look at the changes in accessibility over time due to variations in the public transport supply. We would like to illustrate this using TUM&amp;rsquo;s main campus in the center of Munich and the Garching Campus, which is north of the City, connected with a subway line.&lt;/p&gt;
 
@@ -129,10 +178,10 @@ A special thanks to
 &lt;figure id=&#34;figure-tum-stammgelänge-in-maxvorstadt&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_stammgelaende.gif&#34; data-caption=&#34;TUM Stammgelänge in Maxvorstadt&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_stammgelaende.gif&#34; data-caption=&#34;TUM Stammgelänge in Maxvorstadt&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_stammgelaende.gif&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_stammgelaende.gif&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -165,10 +214,10 @@ How does a similar map look for the example of Garching?&lt;/p&gt;
 &lt;figure id=&#34;figure-tum-campus-garching-hochbrück&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_garching.gif&#34; data-caption=&#34;TUM Campus Garching-Hochbrück&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_garching.gif&#34; data-caption=&#34;TUM Campus Garching-Hochbrück&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_garching.gif&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_garching.gif&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -202,10 +251,10 @@ How does a similar map look for the example of Garching?&lt;/p&gt;
 &lt;figure id=&#34;figure-comparison-of-both-locations&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_graph.png&#34; data-caption=&#34;Comparison of both locations&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_graph.png&#34; data-caption=&#34;Comparison of both locations&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_graph.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_graph.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -303,9 +352,9 @@ anim_save(&amp;quot;output2.mp4&amp;quot;, b)
     
     <item>
       <title>First EMMA workshop at TUM</title>
-      <link>/post/2019-12-10-first-emma-workshop/</link>
+      <link>https://www.emma-accessibility.org/post/2019-12-10-first-emma-workshop/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-12-10-first-emma-workshop/</guid>
+      <guid>https://www.emma-accessibility.org/post/2019-12-10-first-emma-workshop/</guid>
       <description>&lt;p&gt;December 10, 2019 was a special day for Maximilian Pfertner’s PhD project EMMA – &amp;ldquo;Empowering Multimodal and Intermodal Accessibility Analysis&amp;rdquo;: Seven international experts joined us for the first expert workshop within our project funded by Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation.&lt;/p&gt;
 &lt;p&gt;We presented our analysis of commuters who have changed their workplace location, to find out if this location alone shapes the daily commute (spoiler: it does!). The paper with all the details is currently under review – stay tuned!&lt;/p&gt;
 &lt;p&gt;Together with our guests, we came to the conclusion that it is crucial to look at the workplace locations in order enable sustainable mobility in a region. EMMA’s approach to include intermodality in accessibility analysis is important for a better understanding of the real-life accessibility and mobility behavior of workers while opening up new ways to look at the potential impacts of intermodal services.&lt;/p&gt;
@@ -331,10 +380,10 @@ anim_save(&amp;quot;output2.mp4&amp;quot;, b)
 &lt;figure id=&#34;figure-example-of-an-accessibility-map-for-bikeride&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bikeandrideaccessibility.jpg&#34; data-caption=&#34;Example of an accessibility map for Bike&amp;amp;Ride&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/img/bikeandrideaccessibility.jpg&#34; data-caption=&#34;Example of an accessibility map for Bike&amp;amp;Ride&#34;&gt;
 
 
-  &lt;img src=&#34;/img/bikeandrideaccessibility.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/img/bikeandrideaccessibility.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -352,9 +401,9 @@ anim_save(&amp;quot;output2.mp4&amp;quot;, b)
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://www.emma-accessibility.org/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://www.emma-accessibility.org/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-academic&#34;&gt;Create slides in Markdown with Academic&lt;/h1&gt;
 &lt;p&gt;
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic&lt;/a&gt; | 
@@ -405,13 +454,13 @@ $$&lt;/p&gt;
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+&lt;strong&gt;Two&lt;/strong&gt; 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
+Three 
 &lt;/span&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
@@ -485,86 +534,18 @@ Three
     </item>
     
     <item>
-      <title>Imprint</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;h3 id=&#34;operator&#34;&gt;Operator&lt;/h3&gt;
-&lt;p&gt;Technical University of Munich&lt;br&gt;
-Chair of Urban Structure and Transport Planning&lt;/p&gt;
-&lt;h3 id=&#34;address&#34;&gt;Address&lt;/h3&gt;
-&lt;p&gt;Arcisstraße 21&lt;br&gt;
-80333 München&lt;br&gt;
-Germany&lt;/p&gt;
-&lt;h3 id=&#34;contact&#34;&gt;Contact&lt;/h3&gt;
-&lt;p&gt;Maximilian Pfertner&lt;br&gt;
-&lt;a href=&#34;mailto:maximilian.pfertner@tum.de&#34;&gt;maximilian.pfertner@tum.de&lt;/a&gt;&lt;br&gt;
-+49 89 289 22568&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
-      <description>&lt;p&gt;Personal data (usually referred to just as &amp;ldquo;data&amp;rdquo; below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.&lt;/p&gt;
-&lt;p&gt;Per Art. 4 No. 1 of Regulation (EU) 2016/679, i.e. the General Data Protection Regulation (hereinafter referred to as the &amp;ldquo;GDPR&amp;rdquo;), &amp;ldquo;processing&amp;rdquo; refers to any operation or set of operations such as collection, recording, organization, structuring, storage, adaptation, alteration, retrieval, consultation, use, disclosure by transmission, dissemination, or otherwise making available, alignment, or combination, restriction, erasure, or destruction performed on personal data, whether by automated means or not.&lt;/p&gt;
-&lt;p&gt;The following privacy policy is intended to inform you in particular about the type, scope, purpose, duration, and legal basis for the processing of such data either under our own control or in conjunction with others. We also inform you below about the third-party components we use to optimize our website and improve the user experience which may result in said third parties also processing data they collect and control.&lt;/p&gt;
-&lt;p&gt;Our privacy policy is structured as follows:&lt;/p&gt;
-&lt;p&gt;I. Information about us as controllers of your data
-II. The rights of users and data subjects
-III. Information about the data processing&lt;/p&gt;
-&lt;p&gt;I. Information about us as controllers of your data
-The party responsible for this website (the &amp;ldquo;controller&amp;rdquo;) for purposes of data protection law is:&lt;/p&gt;
-&lt;p&gt;Technical University of Munich - Chair of Urban Structure and Transport Planning
-Arcisstraße 21
-80333 München
-Germany&lt;/p&gt;
-&lt;p&gt;Email: &lt;a href=&#34;mailto:maximilian.pfertner@tum.de&#34;&gt;maximilian.pfertner@tum.de&lt;/a&gt;
-The controller&amp;rsquo;s data protection officer is:&lt;/p&gt;
-&lt;p&gt;Maximilian Pfertner&lt;/p&gt;
-&lt;p&gt;II. The rights of users and data subjects
-With regard to the data processing to be described in more detail below, users and data subjects have the right&lt;/p&gt;
-&lt;p&gt;to confirmation of whether data concerning them is being processed, information about the data being processed, further information about the nature of the data processing, and copies of the data (cf. also Art. 15 GDPR);
-to correct or complete incorrect or incomplete data (cf. also Art. 16 GDPR);
-to the immediate deletion of data concerning them (cf. also Art. 17 DSGVO), or, alternatively, if further processing is necessary as stipulated in Art. 17 Para. 3 GDPR, to restrict said processing per Art. 18 GDPR;
-to receive copies of the data concerning them and/or provided by them and to have the same transmitted to other providers/controllers (cf. also Art. 20 GDPR);
-to file complaints with the supervisory authority if they believe that data concerning them is being processed by the controller in breach of data protection provisions (see also Art. 77 GDPR).
-In addition, the controller is obliged to inform all recipients to whom it discloses data of any such corrections, deletions, or restrictions placed on processing the same per Art. 16, 17 Para. 1, 18 GDPR. However, this obligation does not apply if such notification is impossible or involves a disproportionate effort. Nevertheless, users have a right to information about these recipients.&lt;/p&gt;
-&lt;p&gt;Likewise, under Art. 21 GDPR, users and data subjects have the right to object to the controller&amp;rsquo;s future processing of their data pursuant to Art. 6 Para. 1 lit. f) GDPR. In particular, an objection to data processing for the purpose of direct advertising is permissible.&lt;/p&gt;
-&lt;p&gt;III. Information about the data processing
-Your data processed when using our website will be deleted or blocked as soon as the purpose for its storage ceases to apply, provided the deletion of the same is not in breach of any statutory storage obligations or unless otherwise stipulated below.&lt;/p&gt;
-&lt;p&gt;Server data
-For technical reasons, the following data sent by your internet browser to us or to our server provider will be collected, especially to ensure a secure and stable website: These server log files record the type and version of your browser, operating system, the website from which you came (referrer URL), the webpages on our site visited, the date and time of your visit, as well as the IP address from which you visited our site.&lt;/p&gt;
-&lt;p&gt;The data thus collected will be temporarily stored, but not in association with any other of your data.&lt;/p&gt;
-&lt;p&gt;The basis for this storage is Art. 6 Para. 1 lit. f) GDPR. Our legitimate interest lies in the improvement, stability, functionality, and security of our website.&lt;/p&gt;
-&lt;p&gt;The data will be deleted within no more than seven days, unless continued storage is required for evidentiary purposes. In which case, all or part of the data will be excluded from deletion until the investigation of the relevant incident is finally resolved.&lt;/p&gt;
-&lt;p&gt;Third party-services&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;none&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Contact
-If you contact us via email or the contact form, the data you provide will be used for the purpose of processing your request. We must have this data in order to process and answer your inquiry; otherwise we will not be able to answer it in full or at all.&lt;/p&gt;
-&lt;p&gt;The legal basis for this data processing is Art. 6 Para. 1 lit. b) GDPR.&lt;/p&gt;
-&lt;p&gt;Your data will be deleted once we have fully answered your inquiry and there is no further legal obligation to store your data, such as if an order or contract resulted therefrom.&lt;/p&gt;
-&lt;p&gt;Model Data Protection Statement for Anwaltskanzlei Weiß &amp;amp; Partner&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://www.emma-accessibility.org/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://www.emma-accessibility.org/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://www.emma-accessibility.org/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://www.emma-accessibility.org/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;

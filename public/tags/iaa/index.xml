@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iaa | EMMA</title>
+    <link>https://www.emma-accessibility.org/tags/iaa/</link>
+      <atom:link href="https://www.emma-accessibility.org/tags/iaa/index.xml" rel="self" type="application/rss+xml" />
+    <description>iaa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>iaa</title>
+      <link>https://www.emma-accessibility.org/tags/iaa/</link>
+    </image>
+    
+    <item>
+      <title>Herzlich Willkommen auf der IAA!</title>
+      <link>https://www.emma-accessibility.org/post/iaa/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-accessibility.org/post/iaa/</guid>
+      <description>&lt;h3 id=&#34;herzlich-willkommen-beim-projekt-emma---ein-multi--und-intermodales-erreichbarkeitsmodell-für-arbeitsstandorte&#34;&gt;Herzlich Willkommen beim Projekt EMMA - &lt;em&gt;Ein multi- und intermodales Erreichbarkeitsmodell für Arbeitsstandorte&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Arbeitsstandorte sind prägend für unseren Alltag. Wo unser Arbeitsplatz liegt, hat Einfluss auf unser Mobilitätsverhalten - und zwar nicht nur für den Weg zur Arbeit, sondern auch für andere Erledigungen und Freizeitaktivitäten. Wegeketten (wie Arbeiten – Einkaufen – Kind abholen – nach Hause) werden davon dominiert, wie man den Weg zur Arbeit zurücklegt. Fährt man morgens mit dem Auto in die Arbeit, ist es sehr wahrscheinlich, dass man alle weiteren Wege des Tages ebenfalls im Pkw zurücklegt. Arbeitet man nun an einem Standort, der schnell und komfortabel nur mit dem Auto erreichbar ist, wird zwangsweise das gesamte Mobilitätsverhalten davon dominiert. Ziel moderner Planung in Metropolregionen sollte es daher sein, dass rein autoabhängige Arbeitsstandorte vermieden werden, um diesen „Lock-in“ Effekt zu verhindern und sich die Beschäftigten am Standort für verschiedene Verkehrsmittel – je nach individueller Eignung und Präferenz – entscheiden können.&lt;/p&gt;
+&lt;p&gt;In EMMA, unserem DFG-geförderten Projekt (2019 – 2021), wird die Perspektive der Unternehmensstandorte eingenommen und die multimodale Erreichbarkeit von Arbeitskräften aus Arbeitsstandortsicht modelliert – das heißt, wir berechnen vereinfacht gesagt wie viele Menschen innerhalb gewisser Zeitbeschränkungen (z.B. 30 Minuten) mit verschiedenen Verkehrsmitteln (ÖPNV, Pkw, Fahrrad, sowie Kombinationen davon wie Bike+Ride) diesen Standort erreichen können. Dabei geht es uns bewusst nicht um die tatsächlich Beschäftigten, sondern wir verwenden die erreichbare Bevölkerung als einen Indikator dafür, wie gut der Standort erreichbar ist. Dahinter steht das Prinzip der „Erreichbarkeitsplanung“, welches zunehmend die rein mobilitätsbasierte Planung ablöst. Es geht dabei darum, dass das Wechselspiel aus Stadtstruktur und Verkehrssystem so optimiert wird, damit eine Vielzahl von möglichen Zielen (z.B. Supermärkte, Ärztinnen, Schulen, Restaurants, …) für möglichst viele Bürgerinnen und Bürger erreichbar ist, anstatt nur Reisezeiten zwischen (potenziell bedeutungslosen) Zielen zu verbessern.&lt;/p&gt;
+&lt;p&gt;Ein beispielhaftes Zwischenergebnis dieser Analysen ist der Vergleich der erreichbaren Bevölkerung innerhalb von 30 Minuten mit verschiedenen Verkehrsmitteln:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-verkehrsmittel-im-vergleich&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/vergleich.gif&#34; data-caption=&#34;Verkehrsmittel im Vergleich&#34;&gt;
+
+
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/vergleich.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Verkehrsmittel im Vergleich
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Wie Sie sehen, schwankt die Anzahl der erreichbaren Bevölkerung sehr stark. Im ÖPNV („PT)“ sieht man deutlich die Achsen des schienengebundenen Verkehrs und die Zentren der Region weisen die höchsten Werte auf. Flächendeckend erreicht das Auto die höchsten Werte – die weißen Flecken auf der Karte sind zwar mit dem Pkw nicht erreichbar, fallen aber nicht ins Gewicht, da diese buchstäblich im Wald oder auf dem freien Feld liegen. Deutlich wird auch, dass die Kombination aus ÖPNV und Fahrrad dort ihre Vorteile ausspielen kann, wo Arbeitsstandorte relativ nah am schienengebundenen ÖPNV liegen, jedoch zu weit entfernt, um zu Fuß zu gehen. Hier könnte eine Förderung von Bike and Ride am meisten Potenzial entfalten.
+Eine weitere wichtige Erkenntnis aus dieser (im Arbeitsstand befindlichen) Analyse ist auch das Potenzial der Zentren außerhalb Münchens, wie z.B. Augsburg, Ingolstadt, Landshut, Rosenheim, etc. Im Modell schneiden diese oft sehr gut ab und auch die Fahrraderreichbarkeit ist im Vergleich zum Pkw recht hoch, da sich die Bevölkerung auf eine recht kompakte Stadtstruktur konzentriert. In Verbindung mit Mobilitätsbefragungen deutet dies ein Potenzial für eine weitere Förderung des Radverkehrs an, insbesondere für Menschen, die in diesen Zentren wohnen und arbeiten.
+Eine große offene Frage bleibt aber natürlich, wann ein Arbeitsstandort „gut liegt“. Zahlen und Modellergebnisse helfen uns, diese Frage zu beantworten. Mindestens genau so wichtig ist aber auch Ihre Meinung – wir würden uns freuen, wenn Sie uns ein paar Worte dazu hinterlassen, wodurch sich Ihrer ganz persönlichen Meinung nach ein guter Arbeitsstandort auszeichnet:&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

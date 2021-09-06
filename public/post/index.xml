@@ -2,28 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | EMMA</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-accessibility.org/post/</link>
+      <atom:link href="https://www.emma-accessibility.org/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 11 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://www.emma-accessibility.org/post/</link>
     </image>
     
     <item>
+      <title>Herzlich Willkommen auf der IAA!</title>
+      <link>https://www.emma-accessibility.org/post/iaa/</link>
+      <pubDate>Mon, 06 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.emma-accessibility.org/post/iaa/</guid>
+      <description>&lt;h3 id=&#34;herzlich-willkommen-beim-projekt-emma---ein-multi--und-intermodales-erreichbarkeitsmodell-für-arbeitsstandorte&#34;&gt;Herzlich Willkommen beim Projekt EMMA - &lt;em&gt;Ein multi- und intermodales Erreichbarkeitsmodell für Arbeitsstandorte&lt;/em&gt;&lt;/h3&gt;
+&lt;p&gt;Arbeitsstandorte sind prägend für unseren Alltag. Wo unser Arbeitsplatz liegt, hat Einfluss auf unser Mobilitätsverhalten - und zwar nicht nur für den Weg zur Arbeit, sondern auch für andere Erledigungen und Freizeitaktivitäten. Wegeketten (wie Arbeiten – Einkaufen – Kind abholen – nach Hause) werden davon dominiert, wie man den Weg zur Arbeit zurücklegt. Fährt man morgens mit dem Auto in die Arbeit, ist es sehr wahrscheinlich, dass man alle weiteren Wege des Tages ebenfalls im Pkw zurücklegt. Arbeitet man nun an einem Standort, der schnell und komfortabel nur mit dem Auto erreichbar ist, wird zwangsweise das gesamte Mobilitätsverhalten davon dominiert. Ziel moderner Planung in Metropolregionen sollte es daher sein, dass rein autoabhängige Arbeitsstandorte vermieden werden, um diesen „Lock-in“ Effekt zu verhindern und sich die Beschäftigten am Standort für verschiedene Verkehrsmittel – je nach individueller Eignung und Präferenz – entscheiden können.&lt;/p&gt;
+&lt;p&gt;In EMMA, unserem DFG-geförderten Projekt (2019 – 2021), wird die Perspektive der Unternehmensstandorte eingenommen und die multimodale Erreichbarkeit von Arbeitskräften aus Arbeitsstandortsicht modelliert – das heißt, wir berechnen vereinfacht gesagt wie viele Menschen innerhalb gewisser Zeitbeschränkungen (z.B. 30 Minuten) mit verschiedenen Verkehrsmitteln (ÖPNV, Pkw, Fahrrad, sowie Kombinationen davon wie Bike+Ride) diesen Standort erreichen können. Dabei geht es uns bewusst nicht um die tatsächlich Beschäftigten, sondern wir verwenden die erreichbare Bevölkerung als einen Indikator dafür, wie gut der Standort erreichbar ist. Dahinter steht das Prinzip der „Erreichbarkeitsplanung“, welches zunehmend die rein mobilitätsbasierte Planung ablöst. Es geht dabei darum, dass das Wechselspiel aus Stadtstruktur und Verkehrssystem so optimiert wird, damit eine Vielzahl von möglichen Zielen (z.B. Supermärkte, Ärztinnen, Schulen, Restaurants, …) für möglichst viele Bürgerinnen und Bürger erreichbar ist, anstatt nur Reisezeiten zwischen (potenziell bedeutungslosen) Zielen zu verbessern.&lt;/p&gt;
+&lt;p&gt;Ein beispielhaftes Zwischenergebnis dieser Analysen ist der Vergleich der erreichbaren Bevölkerung innerhalb von 30 Minuten mit verschiedenen Verkehrsmitteln:&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure id=&#34;figure-verkehrsmittel-im-vergleich&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/vergleich.gif&#34; data-caption=&#34;Verkehrsmittel im Vergleich&#34;&gt;
+
+
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/vergleich.gif&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Verkehrsmittel im Vergleich
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Wie Sie sehen, schwankt die Anzahl der erreichbaren Bevölkerung sehr stark. Im ÖPNV („PT)“ sieht man deutlich die Achsen des schienengebundenen Verkehrs und die Zentren der Region weisen die höchsten Werte auf. Flächendeckend erreicht das Auto die höchsten Werte – die weißen Flecken auf der Karte sind zwar mit dem Pkw nicht erreichbar, fallen aber nicht ins Gewicht, da diese buchstäblich im Wald oder auf dem freien Feld liegen. Deutlich wird auch, dass die Kombination aus ÖPNV und Fahrrad dort ihre Vorteile ausspielen kann, wo Arbeitsstandorte relativ nah am schienengebundenen ÖPNV liegen, jedoch zu weit entfernt, um zu Fuß zu gehen. Hier könnte eine Förderung von Bike and Ride am meisten Potenzial entfalten.
+Eine weitere wichtige Erkenntnis aus dieser (im Arbeitsstand befindlichen) Analyse ist auch das Potenzial der Zentren außerhalb Münchens, wie z.B. Augsburg, Ingolstadt, Landshut, Rosenheim, etc. Im Modell schneiden diese oft sehr gut ab und auch die Fahrraderreichbarkeit ist im Vergleich zum Pkw recht hoch, da sich die Bevölkerung auf eine recht kompakte Stadtstruktur konzentriert. In Verbindung mit Mobilitätsbefragungen deutet dies ein Potenzial für eine weitere Förderung des Radverkehrs an, insbesondere für Menschen, die in diesen Zentren wohnen und arbeiten.
+Eine große offene Frage bleibt aber natürlich, wann ein Arbeitsstandort „gut liegt“. Zahlen und Modellergebnisse helfen uns, diese Frage zu beantworten. Mindestens genau so wichtig ist aber auch Ihre Meinung – wir würden uns freuen, wenn Sie uns ein paar Worte dazu hinterlassen, wodurch sich Ihrer ganz persönlichen Meinung nach ein guter Arbeitsstandort auszeichnet:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>EMMA&#39;s conference presentations this summer</title>
-      <link>/post/online-presentations-summer-2020/</link>
+      <link>https://www.emma-accessibility.org/post/online-presentations-summer-2020/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/online-presentations-summer-2020/</guid>
+      <guid>https://www.emma-accessibility.org/post/online-presentations-summer-2020/</guid>
       <description>&lt;p&gt;During the summer, we had the chance to present EMMA at two wonderful online conferences. While most in-person events have been cancelled during the COVID-19 pandemic, these virtual events are a great way to ensure fruitful discussions and collect feedback, which is crucial for all kinds of research.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;btr2&#34;&gt;BTR2&lt;/h3&gt;
 &lt;p&gt;At the 
 
 &lt;a href=&#34;https://bridgingtransport.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bridging Transportation Researchers (BTR) Conference #2&lt;/a&gt; on 11-12 August, Maximilian
-presented our results from the commuting data analysis done within EMMA. The talk is available on YouTube (see below) and you can download the slides &lt;a href=&#34;/files/2020-08-11_EMMA@BTR2.pdf&#34;&gt;here&lt;/a&gt;. Make sure to have a look at the other exciting talks at the conference as well!
+presented our results from the commuting data analysis done within EMMA. The talk is available on YouTube (see below) and you can download the slides &lt;a href=&#34;https://www.emma-accessibility.org/files/2020-08-11_EMMA@BTR2.pdf&#34;&gt;here&lt;/a&gt;. Make sure to have a look at the other exciting talks at the conference as well!
 A special thanks to 
 &lt;a href=&#34;http://www.caee.utexas.edu/prof/kockelman/home.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kara Kockelman&lt;/a&gt; (University of Texas at Austin, USA) and 
 &lt;a href=&#34;https://sites.google.com/view/elnazirannezhad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Elnaz Irannezhad&lt;/a&gt; (Australian Road Research Board (ARRB), Australia) for organizing this event.&lt;/p&gt;
@@ -32,19 +81,19 @@ A special thanks to
   &lt;iframe src=&#34;https://www.youtube.com/embed/uH6kQ88gPVE?start=17226&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 
-&lt;p&gt;&lt;em&gt;(Max&amp;rsquo; Zoom broke down at the start of his presentation, so you&amp;rsquo;re seeing the backup version&amp;hellip;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Max&#39; Zoom broke down at the start of his presentation, so you&amp;rsquo;re seeing the backup version&amp;hellip;)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;etc&#34;&gt;ETC&lt;/h3&gt;
 &lt;p&gt;On September 10, we were invited to present in the Accessibility session of the &lt;em&gt;Planning for Sustainable Land Use and Transport&lt;/em&gt; track of the 
-&lt;a href=&#34;https://aetransport.org/this-year-at-etc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Transport Conference&lt;/a&gt;, moderated by Michael Bach. Maximilian presented the technical architecture behind our accessibility model and showed some results and applications for practice. The slides are available for download &lt;a href=&#34;/files/2020-09-10_EMMA@ETC.pdf&#34;&gt;here&lt;/a&gt; while the recording is only available for conference attendants.&lt;/p&gt;
+&lt;a href=&#34;https://aetransport.org/this-year-at-etc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;European Transport Conference&lt;/a&gt;, moderated by Michael Bach. Maximilian presented the technical architecture behind our accessibility model and showed some results and applications for practice. The slides are available for download &lt;a href=&#34;https://www.emma-accessibility.org/files/2020-09-10_EMMA@ETC.pdf&#34;&gt;here&lt;/a&gt; while the recording is only available for conference attendants.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Temporal accessibility of workplaces by time of day</title>
-      <link>/post/changes-in-accessibility-during-a-workday/</link>
+      <link>https://www.emma-accessibility.org/post/changes-in-accessibility-during-a-workday/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/changes-in-accessibility-during-a-workday/</guid>
+      <guid>https://www.emma-accessibility.org/post/changes-in-accessibility-during-a-workday/</guid>
       <description>&lt;p&gt;The release of the 
 &lt;a href=&#34;https://www.opendata-oepnv.de/ht/de/willkommen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official nation-wide GTFS dataset for Germany&lt;/a&gt; has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner. The timetable-based accuracy of the data allows a very detailed look at the changes in accessibility over time due to variations in the public transport supply. We would like to illustrate this using TUM&amp;rsquo;s main campus in the center of Munich and the Garching Campus, which is north of the City, connected with a subway line.&lt;/p&gt;
 
@@ -65,10 +114,10 @@ A special thanks to
 &lt;figure id=&#34;figure-tum-stammgelänge-in-maxvorstadt&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_stammgelaende.gif&#34; data-caption=&#34;TUM Stammgelänge in Maxvorstadt&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_stammgelaende.gif&#34; data-caption=&#34;TUM Stammgelänge in Maxvorstadt&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_stammgelaende.gif&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_stammgelaende.gif&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -101,10 +150,10 @@ How does a similar map look for the example of Garching?&lt;/p&gt;
 &lt;figure id=&#34;figure-tum-campus-garching-hochbrück&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_garching.gif&#34; data-caption=&#34;TUM Campus Garching-Hochbrück&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_garching.gif&#34; data-caption=&#34;TUM Campus Garching-Hochbrück&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_garching.gif&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_garching.gif&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -138,10 +187,10 @@ How does a similar map look for the example of Garching?&lt;/p&gt;
 &lt;figure id=&#34;figure-comparison-of-both-locations&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_graph.png&#34; data-caption=&#34;Comparison of both locations&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_graph.png&#34; data-caption=&#34;Comparison of both locations&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_graph.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_graph.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -239,9 +288,9 @@ anim_save(&amp;quot;output2.mp4&amp;quot;, b)
     
     <item>
       <title>First EMMA workshop at TUM</title>
-      <link>/post/2019-12-10-first-emma-workshop/</link>
+      <link>https://www.emma-accessibility.org/post/2019-12-10-first-emma-workshop/</link>
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>/post/2019-12-10-first-emma-workshop/</guid>
+      <guid>https://www.emma-accessibility.org/post/2019-12-10-first-emma-workshop/</guid>
       <description>&lt;p&gt;December 10, 2019 was a special day for Maximilian Pfertner’s PhD project EMMA – &amp;ldquo;Empowering Multimodal and Intermodal Accessibility Analysis&amp;rdquo;: Seven international experts joined us for the first expert workshop within our project funded by Deutsche Forschungsgemeinschaft (DFG) - German Research Foundation.&lt;/p&gt;
 &lt;p&gt;We presented our analysis of commuters who have changed their workplace location, to find out if this location alone shapes the daily commute (spoiler: it does!). The paper with all the details is currently under review – stay tuned!&lt;/p&gt;
 &lt;p&gt;Together with our guests, we came to the conclusion that it is crucial to look at the workplace locations in order enable sustainable mobility in a region. EMMA’s approach to include intermodality in accessibility analysis is important for a better understanding of the real-life accessibility and mobility behavior of workers while opening up new ways to look at the potential impacts of intermodal services.&lt;/p&gt;
@@ -267,10 +316,10 @@ anim_save(&amp;quot;output2.mp4&amp;quot;, b)
 &lt;figure id=&#34;figure-example-of-an-accessibility-map-for-bikeride&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/img/bikeandrideaccessibility.jpg&#34; data-caption=&#34;Example of an accessibility map for Bike&amp;amp;Ride&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/img/bikeandrideaccessibility.jpg&#34; data-caption=&#34;Example of an accessibility map for Bike&amp;amp;Ride&#34;&gt;
 
 
-  &lt;img src=&#34;/img/bikeandrideaccessibility.jpg&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/img/bikeandrideaccessibility.jpg&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

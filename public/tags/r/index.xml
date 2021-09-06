@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>r | EMMA</title>
-    <link>/tags/r/</link>
-      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.emma-accessibility.org/tags/r/</link>
+      <atom:link href="https://www.emma-accessibility.org/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>r</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 26 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>r</title>
-      <link>/tags/r/</link>
+      <link>https://www.emma-accessibility.org/tags/r/</link>
     </image>
     
     <item>
       <title>Temporal accessibility of workplaces by time of day</title>
-      <link>/post/changes-in-accessibility-during-a-workday/</link>
+      <link>https://www.emma-accessibility.org/post/changes-in-accessibility-during-a-workday/</link>
       <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/changes-in-accessibility-during-a-workday/</guid>
+      <guid>https://www.emma-accessibility.org/post/changes-in-accessibility-during-a-workday/</guid>
       <description>&lt;p&gt;The release of the 
 &lt;a href=&#34;https://www.opendata-oepnv.de/ht/de/willkommen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;official nation-wide GTFS dataset for Germany&lt;/a&gt; has been a game changer for all kinds of public transport analysis recently. Within EMMA, we use a filtered version of this dataset for the region in OpenTripPlanner. The timetable-based accuracy of the data allows a very detailed look at the changes in accessibility over time due to variations in the public transport supply. We would like to illustrate this using TUM&amp;rsquo;s main campus in the center of Munich and the Garching Campus, which is north of the City, connected with a subway line.&lt;/p&gt;
 
@@ -37,10 +37,10 @@
 &lt;figure id=&#34;figure-tum-stammgelänge-in-maxvorstadt&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_stammgelaende.gif&#34; data-caption=&#34;TUM Stammgelänge in Maxvorstadt&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_stammgelaende.gif&#34; data-caption=&#34;TUM Stammgelänge in Maxvorstadt&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_stammgelaende.gif&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_stammgelaende.gif&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -73,10 +73,10 @@ How does a similar map look for the example of Garching?&lt;/p&gt;
 &lt;figure id=&#34;figure-tum-campus-garching-hochbrück&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_garching.gif&#34; data-caption=&#34;TUM Campus Garching-Hochbrück&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_garching.gif&#34; data-caption=&#34;TUM Campus Garching-Hochbrück&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_garching.gif&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_garching.gif&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
@@ -110,10 +110,10 @@ How does a similar map look for the example of Garching?&lt;/p&gt;
 &lt;figure id=&#34;figure-comparison-of-both-locations&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/img/2020-06-26_graph.png&#34; data-caption=&#34;Comparison of both locations&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_graph.png&#34; data-caption=&#34;Comparison of both locations&#34;&gt;
 
 
-  &lt;img src=&#34;/post/img/2020-06-26_graph.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img src=&#34;https://www.emma-accessibility.org/post/img/2020-06-26_graph.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 
