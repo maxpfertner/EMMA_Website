@@ -56,3 +56,7 @@ To learn more about EMMA, we are uploading selected presentations slides and oth
 - {{% staticref "files/2019-12-10_1-3_EMMA - Project Overview.pdf" %}}2019-12-10: Project overview - presented at the first EMMA workshop{{% /staticref %}}
 
 - {{% staticref "files/2020-02-06_ EMMA@Doctoral Candidates Day.pdf" %}}2020-02-06: Poster presented at the Doctoral Candidates's Day of our faculty{{% /staticref %}}
+
+- {{% staticref "files/2022-07-21_NECTARToronto.pdf" %}}2022-07-21: Slides presented at the NECTAR conference in Toronto{{% /staticref %}}
+
+

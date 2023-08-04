@@ -18,10 +18,10 @@
   url = "#materials"
   weight = 25
   
-  [[main]]
-  name = "IAA"
-  url = "/post/iaa/"
-  weight = 30
+# [[main]]
+# name = "IAA"
+#  url = "/post/iaa/"
+#  weight = 30
 
 #[[main]]
 #  name = "Projects"

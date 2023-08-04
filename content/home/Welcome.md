@@ -76,15 +76,6 @@ Open data is the foundation of our analysis. Mainly
 - [OpenSteetMap](https://www.openstreetmap.org/) for all road networks
 - [Official nationwide GTFS-data](https://www.opendata-oepnv.de/) provided by "OpenData-Plattform ÖPNV", following the [European Delegated Regulation 2017/1926 of 31 May 2017](https://eur-lex.europa.eu/eli/reg_del/2017/1926/oj)
 
-### First results
-
-Our first results from a data analysis of 996 workers who have changed their workplace location while maintaining the same residential locations provide evidence that the workplace location alone has a huge impact on the modes used on the daily commute, as well as on the car ownership of workers. This emphasizes the importance of workplace locations and their accessibility, while demanding further investigations on the  accessibility of these locations in order to create knowledge that will help planners and decision-makers to plan better accessible workplace locations than foster sustainability.
-
-### Current status & next steps
-
-The project runs from January 2019 to December 2021, so currently we are right in the middle of the project. A first paper about our data analysis 
-will be published soon, a second one about the methodological concept of the accessibility model will follow.  
-The focus in the last project phase starting in January 2021 will be the application of the model and its policy implications.
 
 ---------------------------------
 ### Get in touch with us!

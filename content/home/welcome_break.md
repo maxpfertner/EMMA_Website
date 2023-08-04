@@ -8,8 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
-title = "EMMA"
-# subtitle = "**E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis // **E**in **m**ulti- und intermodales Erreichbarkeits**m**odell für **A**rbeitsstandorte"
+title = "**EMMA**"
 
 
 [design]
@@ -23,7 +22,7 @@ title = "EMMA"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+   color = "#df4084"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
@@ -37,7 +36,7 @@ title = "EMMA"
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = false
+  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -55,8 +54,6 @@ image = "headers/banner.png" #the image path is header/...jpg
 caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
  
 +++
+### Empowering Multimodal and Intermodal Accessibility Analysis
 
-## **E**mpowering **M**ulti**m**odal and Intermodal **A**ccessibility Analysis //  
-## ***E**in **m**ulti- und intermodales Erreichbarkeits **m**odell für **A**rbeitsstandorte*  
   
- 
