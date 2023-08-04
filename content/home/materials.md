@@ -53,6 +53,12 @@ subtitle = ""
 
 
 To learn more about EMMA, we are uploading selected presentations slides and other materials here. Please reach out to us if you have further questions!
+
+## Publications
+- [Pfertner, M., Büttner, B., Duran-Rodas, D., & Wulfhorst, G. (2022). Workplace relocation and its association with car availability and commuting mode choice. Journal of Transport Geography, 98, 103264.](https://www.sciencedirect.com/science/article/pii/S0966692321003173)
+- [Pfertner, M., Büttner, B., & Wulfhorst, G. (2023). An Open-Source Modelling Methodology for Multimodal and Intermodal Accessibility Analysis of Workplace Locations. Sustainability, 15(3), 1947.](https://www.mdpi.com/2071-1050/15/3/1947)
+
+## Presentations
 - {{% staticref "files/2019-12-10_1-3_EMMA - Project Overview.pdf" %}}2019-12-10: Project overview - presented at the first EMMA workshop{{% /staticref %}}
 
 - {{% staticref "files/2020-02-06_ EMMA@Doctoral Candidates Day.pdf" %}}2020-02-06: Poster presented at the Doctoral Candidates's Day of our faculty{{% /staticref %}}
