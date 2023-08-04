@@ -50,8 +50,8 @@ title = "**EMMA**"
  css_class = ""
  
 [header]
-image = "headers/banner.png" #the image path is header/...jpg
-caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
+# image = "headers/banner.png" #the image path is header/...jpg
+# caption = "Image credit: [**Academic**](https://github.com/gcushen/hugo-academic/)"
  
 +++
 ### Empowering Multimodal and Intermodal Accessibility Analysis
